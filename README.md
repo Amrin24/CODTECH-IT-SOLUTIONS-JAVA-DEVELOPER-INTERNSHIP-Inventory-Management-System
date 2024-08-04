@@ -25,7 +25,11 @@ JAVA DEVELOPER
 UML Class Diagram:
 ![classdiagram](https://github.com/user-attachments/assets/eeebeaf6-e35a-43b1-b2c1-6a6ae039e31d)
 
-![ezgif com-reverse](https://github.com/user-attachments/assets/b86f1043-992b-4256-a407-4eb4a08d0067)
+
+![ezgif com-reverse](https://github.com/user-attachments/assets/ec34a15d-652f-440b-b913-21b7608471f4)
+
+
+
 INTERNSHIP TASKS Level 2.
 
 Level 2
